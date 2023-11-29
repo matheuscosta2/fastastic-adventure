@@ -1,6 +1,12 @@
 aventura-fantastica
 <<<<<<< HEAD
+<<<<<<< HEAD
 Regresso da fantastica aventura!!!
 =======
 regresso a fantastica aventura da Proz.
 >>>>>>> origin/regresso
+=======
+
+
+Linha wesley gusmao
+>>>>>>> origin/wesley-gusmao
