@@ -1,2 +1,6 @@
 aventura-fantastica
+<<<<<<< HEAD
 Regresso da fantastica aventura!!!
+=======
+regresso a fantastica aventura da Proz.
+>>>>>>> origin/regresso
